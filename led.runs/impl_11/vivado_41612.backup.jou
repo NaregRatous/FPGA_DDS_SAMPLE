@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Dec  9 18:59:42 2024
+# Process ID: 41612
+# Current directory: H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.runs/impl_11
+# Command line: vivado.exe -log ddsilavio.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ddsilavio.tcl -notrace
+# Log file: H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.runs/impl_11/ddsilavio.vdi
+# Journal file: H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.runs/impl_11\vivado.jou
+# Running On: At112204-P1, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 12, Host memory: 34088 MB
+#-----------------------------------------------------------
+source ddsilavio.tcl -notrace

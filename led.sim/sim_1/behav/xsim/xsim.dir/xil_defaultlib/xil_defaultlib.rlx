@@ -1,0 +1,16 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sim_1/new/dds_tb.v,1733321805,verilog,,,,dds_tb,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sim_1/new/vtf_led_test.v,1561973190,verilog,,H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sim_1/new/dds_tb.v,,vtf_led_test,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/ip/dds_compiler_1/dds_compiler_1_sim_netlist.v,1733756651,verilog,H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/ip/dds_compiler_1/demo_tb/tb_dds_compiler_1.vhd,H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/ip/vio_0/sim/vio_0.v,,dds_compiler_1,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/ip/dds_compiler_1/demo_tb/tb_dds_compiler_1.vhd,1733756606,vhdl,,,,tb_dds_compiler_1,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/ip/ila/sim/ila.v,1567059400,verilog,,H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/ip/dds_compiler_1/dds_compiler_1_sim_netlist.v,,ila,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/ip/ila_0/sim/ila_0.v,1733757422,verilog,,H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/new/UpDownCounter.v,,ila_0,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/ip/vio_0/sim/vio_0.v,1733754864,verilog,,H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/ip/ila_0/sim/ila_0.v,,vio_0,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/new/DDS.v,1733321316,verilog,,H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/new/ddsilavio.v,,DDS,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/new/UpDownCounter.v,1732975269,verilog,,H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/new/led.v,,UpDownCounter,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/new/ddsilavio.v,1733757691,verilog,,H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sim_1/new/vtf_led_test.v,,ddsilavio,,,,,,,,
+H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/new/led.v,1732971694,verilog,,H:/Learning/2.Software/FPGA/FPGA Excercise/01_led/led.srcs/sources_1/new/DDS.v,,LED,,,,,,,,
